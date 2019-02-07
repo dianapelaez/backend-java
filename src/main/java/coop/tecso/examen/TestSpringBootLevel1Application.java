@@ -1,0 +1,14 @@
+package coop.tecso.examen;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TestSpringBootLevel1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TestSpringBootLevel1Application.class, args);
+	}
+
+}
+
